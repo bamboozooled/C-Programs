@@ -1,0 +1,3 @@
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ForIterationsTimi\ForIterations\bin\Debug\ForIterations.exe.config
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ForIterationsTimi\ForIterations\obj\Debug\ForIterations.exe
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ForIterationsTimi\ForIterations\obj\Debug\ForIterations.pdb

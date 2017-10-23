@@ -1,0 +1,6 @@
+c:\users\owotu\documents\visual studio 2015\Projects\AreaAndPerimeterTimiOwoturo\AreaAndPerimeterTimiOwoturo\bin\Debug\AreaAndPerimeterTimiOwoturo.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\AreaAndPerimeterTimiOwoturo\AreaAndPerimeterTimiOwoturo\bin\Debug\AreaAndPerimeterTimiOwoturo.exe
+c:\users\owotu\documents\visual studio 2015\Projects\AreaAndPerimeterTimiOwoturo\AreaAndPerimeterTimiOwoturo\bin\Debug\AreaAndPerimeterTimiOwoturo.pdb
+c:\users\owotu\documents\visual studio 2015\Projects\AreaAndPerimeterTimiOwoturo\AreaAndPerimeterTimiOwoturo\obj\Debug\AreaAndPerimeterTimiOwoturo.csprojResolveAssemblyReference.cache
+c:\users\owotu\documents\visual studio 2015\Projects\AreaAndPerimeterTimiOwoturo\AreaAndPerimeterTimiOwoturo\obj\Debug\AreaAndPerimeterTimiOwoturo.exe
+c:\users\owotu\documents\visual studio 2015\Projects\AreaAndPerimeterTimiOwoturo\AreaAndPerimeterTimiOwoturo\obj\Debug\AreaAndPerimeterTimiOwoturo.pdb

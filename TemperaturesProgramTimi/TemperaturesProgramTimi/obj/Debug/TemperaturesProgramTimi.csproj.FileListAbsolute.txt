@@ -1,0 +1,6 @@
+c:\users\owotu\documents\visual studio 2015\Projects\TemperaturesProgramTimi\TemperaturesProgramTimi\bin\Debug\TemperaturesProgramTimi.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\TemperaturesProgramTimi\TemperaturesProgramTimi\bin\Debug\TemperaturesProgramTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\TemperaturesProgramTimi\TemperaturesProgramTimi\bin\Debug\TemperaturesProgramTimi.pdb
+c:\users\owotu\documents\visual studio 2015\Projects\TemperaturesProgramTimi\TemperaturesProgramTimi\obj\Debug\TemperaturesProgramTimi.csprojResolveAssemblyReference.cache
+c:\users\owotu\documents\visual studio 2015\Projects\TemperaturesProgramTimi\TemperaturesProgramTimi\obj\Debug\TemperaturesProgramTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\TemperaturesProgramTimi\TemperaturesProgramTimi\obj\Debug\TemperaturesProgramTimi.pdb

@@ -1,0 +1,6 @@
+c:\users\owotu\documents\visual studio 2015\Projects\RainfallsArraysTimi\RainfallsArraysTimi\bin\Debug\RainfallsArraysTimi.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\RainfallsArraysTimi\RainfallsArraysTimi\bin\Debug\RainfallsArraysTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\RainfallsArraysTimi\RainfallsArraysTimi\bin\Debug\RainfallsArraysTimi.pdb
+c:\users\owotu\documents\visual studio 2015\Projects\RainfallsArraysTimi\RainfallsArraysTimi\obj\Debug\RainfallsArraysTimi.csprojResolveAssemblyReference.cache
+c:\users\owotu\documents\visual studio 2015\Projects\RainfallsArraysTimi\RainfallsArraysTimi\obj\Debug\RainfallsArraysTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\RainfallsArraysTimi\RainfallsArraysTimi\obj\Debug\RainfallsArraysTimi.pdb

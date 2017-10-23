@@ -1,0 +1,6 @@
+c:\users\owotu\documents\visual studio 2015\Projects\HelperMethodsTimi\HelperMethodsTimi\bin\Debug\HelperMethodsTimi.exe.config
+C:\Users\owotu\documents\visual studio 2015\Projects\HelperMethodsTimi\HelperMethodsTimi\bin\Debug\HelperMethodsTimi.exe
+C:\Users\owotu\documents\visual studio 2015\Projects\HelperMethodsTimi\HelperMethodsTimi\bin\Debug\HelperMethodsTimi.pdb
+C:\Users\owotu\documents\visual studio 2015\Projects\HelperMethodsTimi\HelperMethodsTimi\obj\Debug\HelperMethodsTimi.csprojResolveAssemblyReference.cache
+C:\Users\owotu\documents\visual studio 2015\Projects\HelperMethodsTimi\HelperMethodsTimi\obj\Debug\HelperMethodsTimi.exe
+C:\Users\owotu\documents\visual studio 2015\Projects\HelperMethodsTimi\HelperMethodsTimi\obj\Debug\HelperMethodsTimi.pdb

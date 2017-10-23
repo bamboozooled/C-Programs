@@ -1,0 +1,6 @@
+\\server1\homedir$\owotoluw72\my documents\visual studio 2013\Projects\FinalExamTimiOwoturo\FinalExamTimiOwoturo\bin\Debug\FinalExamTimiOwoturo.exe.config
+\\server1\homedir$\owotoluw72\my documents\visual studio 2013\Projects\FinalExamTimiOwoturo\FinalExamTimiOwoturo\bin\Debug\FinalExamTimiOwoturo.exe
+\\server1\homedir$\owotoluw72\my documents\visual studio 2013\Projects\FinalExamTimiOwoturo\FinalExamTimiOwoturo\bin\Debug\FinalExamTimiOwoturo.pdb
+\\server1\homedir$\owotoluw72\my documents\visual studio 2013\Projects\FinalExamTimiOwoturo\FinalExamTimiOwoturo\obj\Debug\FinalExamTimiOwoturo.csprojResolveAssemblyReference.cache
+\\server1\homedir$\owotoluw72\my documents\visual studio 2013\Projects\FinalExamTimiOwoturo\FinalExamTimiOwoturo\obj\Debug\FinalExamTimiOwoturo.exe
+\\server1\homedir$\owotoluw72\my documents\visual studio 2013\Projects\FinalExamTimiOwoturo\FinalExamTimiOwoturo\obj\Debug\FinalExamTimiOwoturo.pdb

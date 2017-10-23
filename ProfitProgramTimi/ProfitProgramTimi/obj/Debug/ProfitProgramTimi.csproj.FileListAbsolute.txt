@@ -1,0 +1,6 @@
+c:\users\owotu\documents\visual studio 2015\Projects\ProfitProgramTimi\ProfitProgramTimi\bin\Debug\ProfitProgramTimi.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\ProfitProgramTimi\ProfitProgramTimi\bin\Debug\ProfitProgramTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\ProfitProgramTimi\ProfitProgramTimi\bin\Debug\ProfitProgramTimi.pdb
+c:\users\owotu\documents\visual studio 2015\Projects\ProfitProgramTimi\ProfitProgramTimi\obj\Debug\ProfitProgramTimi.csprojResolveAssemblyReference.cache
+c:\users\owotu\documents\visual studio 2015\Projects\ProfitProgramTimi\ProfitProgramTimi\obj\Debug\ProfitProgramTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\ProfitProgramTimi\ProfitProgramTimi\obj\Debug\ProfitProgramTimi.pdb

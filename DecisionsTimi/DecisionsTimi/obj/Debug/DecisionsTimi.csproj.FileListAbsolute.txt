@@ -1,0 +1,6 @@
+c:\users\owotu\documents\visual studio 2015\Projects\DecisionsTimi\DecisionsTimi\bin\Debug\DecisionsTimi.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\DecisionsTimi\DecisionsTimi\bin\Debug\DecisionsTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\DecisionsTimi\DecisionsTimi\bin\Debug\DecisionsTimi.pdb
+c:\users\owotu\documents\visual studio 2015\Projects\DecisionsTimi\DecisionsTimi\obj\Debug\DecisionsTimi.csprojResolveAssemblyReference.cache
+c:\users\owotu\documents\visual studio 2015\Projects\DecisionsTimi\DecisionsTimi\obj\Debug\DecisionsTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\DecisionsTimi\DecisionsTimi\obj\Debug\DecisionsTimi.pdb

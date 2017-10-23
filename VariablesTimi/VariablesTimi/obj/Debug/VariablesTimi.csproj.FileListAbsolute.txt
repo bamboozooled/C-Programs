@@ -1,0 +1,6 @@
+c:\users\owotu\documents\visual studio 2015\Projects\VariablesTimi\VariablesTimi\bin\Debug\VariablesTimi.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\VariablesTimi\VariablesTimi\bin\Debug\VariablesTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\VariablesTimi\VariablesTimi\bin\Debug\VariablesTimi.pdb
+c:\users\owotu\documents\visual studio 2015\Projects\VariablesTimi\VariablesTimi\obj\Debug\VariablesTimi.csprojResolveAssemblyReference.cache
+c:\users\owotu\documents\visual studio 2015\Projects\VariablesTimi\VariablesTimi\obj\Debug\VariablesTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\VariablesTimi\VariablesTimi\obj\Debug\VariablesTimi.pdb

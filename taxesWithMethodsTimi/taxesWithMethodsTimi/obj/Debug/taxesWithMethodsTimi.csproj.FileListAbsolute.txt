@@ -1,0 +1,6 @@
+c:\users\owotu\documents\visual studio 2015\Projects\taxesWithMethodsTimi\taxesWithMethodsTimi\bin\Debug\taxesWithMethodsTimi.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\taxesWithMethodsTimi\taxesWithMethodsTimi\bin\Debug\taxesWithMethodsTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\taxesWithMethodsTimi\taxesWithMethodsTimi\bin\Debug\taxesWithMethodsTimi.pdb
+c:\users\owotu\documents\visual studio 2015\Projects\taxesWithMethodsTimi\taxesWithMethodsTimi\obj\Debug\taxesWithMethodsTimi.csprojResolveAssemblyReference.cache
+c:\users\owotu\documents\visual studio 2015\Projects\taxesWithMethodsTimi\taxesWithMethodsTimi\obj\Debug\taxesWithMethodsTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\taxesWithMethodsTimi\taxesWithMethodsTimi\obj\Debug\taxesWithMethodsTimi.pdb

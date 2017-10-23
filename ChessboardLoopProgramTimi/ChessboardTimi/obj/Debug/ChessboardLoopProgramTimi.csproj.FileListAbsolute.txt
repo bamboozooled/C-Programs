@@ -1,0 +1,9 @@
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ChessboardTimi\ChessboardTimi\bin\Debug\ChessboardTimi.exe.config
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ChessboardTimi\ChessboardTimi\bin\Debug\ChessboardTimi.exe
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ChessboardTimi\ChessboardTimi\bin\Debug\ChessboardTimi.pdb
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ChessboardTimi\ChessboardTimi\obj\Debug\ChessboardLoopProgramTimi.csprojResolveAssemblyReference.cache
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ChessboardTimi\ChessboardTimi\obj\Debug\ChessboardTimi.exe
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ChessboardTimi\ChessboardTimi\obj\Debug\ChessboardTimi.pdb
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ChessboardLoopProgramTimi\ChessboardTimi\bin\Debug\ChessboardTimi.exe.config
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ChessboardLoopProgramTimi\ChessboardTimi\obj\Debug\ChessboardTimi.exe
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ChessboardLoopProgramTimi\ChessboardTimi\obj\Debug\ChessboardTimi.pdb

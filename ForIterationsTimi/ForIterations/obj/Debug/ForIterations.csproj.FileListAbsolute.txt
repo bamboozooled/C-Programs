@@ -1,0 +1,12 @@
+c:\users\owotu\documents\visual studio 2015\Projects\ForIterations\ForIterations\bin\Debug\ForIterations.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\ForIterations\ForIterations\bin\Debug\ForIterations.exe
+c:\users\owotu\documents\visual studio 2015\Projects\ForIterations\ForIterations\bin\Debug\ForIterations.pdb
+c:\users\owotu\documents\visual studio 2015\Projects\ForIterations\ForIterations\obj\Debug\ForIterations.csprojResolveAssemblyReference.cache
+c:\users\owotu\documents\visual studio 2015\Projects\ForIterations\ForIterations\obj\Debug\ForIterations.exe
+c:\users\owotu\documents\visual studio 2015\Projects\ForIterations\ForIterations\obj\Debug\ForIterations.pdb
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ForIterationsTimi\ForIterations\bin\Debug\ForIterations.exe.config
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ForIterationsTimi\ForIterations\obj\Debug\ForIterations.exe
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ForIterationsTimi\ForIterations\obj\Debug\ForIterations.pdb
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ForIterationsTimi\ForIterations\bin\Debug\ForIterations.exe
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ForIterationsTimi\ForIterations\bin\Debug\ForIterations.pdb
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ForIterationsTimi\ForIterations\obj\Debug\ForIterations.csprojResolveAssemblyReference.cache

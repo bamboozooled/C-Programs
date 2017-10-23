@@ -1,0 +1,6 @@
+c:\users\owotu\documents\visual studio 2015\Projects\SimpleClassesTimi\SimpleClassesTimi\bin\Debug\SimpleClassesTimi.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\SimpleClassesTimi\SimpleClassesTimi\bin\Debug\SimpleClassesTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\SimpleClassesTimi\SimpleClassesTimi\bin\Debug\SimpleClassesTimi.pdb
+c:\users\owotu\documents\visual studio 2015\Projects\SimpleClassesTimi\SimpleClassesTimi\obj\Debug\SimpleClassesTimi.csprojResolveAssemblyReference.cache
+c:\users\owotu\documents\visual studio 2015\Projects\SimpleClassesTimi\SimpleClassesTimi\obj\Debug\SimpleClassesTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\SimpleClassesTimi\SimpleClassesTimi\obj\Debug\SimpleClassesTimi.pdb

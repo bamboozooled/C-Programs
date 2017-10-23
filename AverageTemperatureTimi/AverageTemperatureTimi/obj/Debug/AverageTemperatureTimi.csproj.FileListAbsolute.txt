@@ -1,0 +1,6 @@
+c:\users\owotu\documents\visual studio 2015\Projects\AverageTemperatureTimi\AverageTemperatureTimi\bin\Debug\AverageTemperatureTimi.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\AverageTemperatureTimi\AverageTemperatureTimi\bin\Debug\AverageTemperatureTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\AverageTemperatureTimi\AverageTemperatureTimi\bin\Debug\AverageTemperatureTimi.pdb
+c:\users\owotu\documents\visual studio 2015\Projects\AverageTemperatureTimi\AverageTemperatureTimi\obj\Debug\AverageTemperatureTimi.csprojResolveAssemblyReference.cache
+c:\users\owotu\documents\visual studio 2015\Projects\AverageTemperatureTimi\AverageTemperatureTimi\obj\Debug\AverageTemperatureTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\AverageTemperatureTimi\AverageTemperatureTimi\obj\Debug\AverageTemperatureTimi.pdb

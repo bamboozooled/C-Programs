@@ -1,0 +1,6 @@
+c:\users\owotu\documents\visual studio 2015\Projects\DatesAndTimesTimi\DatesAndTimesTimi\bin\Debug\DatesAndTimesTimi.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\DatesAndTimesTimi\DatesAndTimesTimi\bin\Debug\DatesAndTimesTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\DatesAndTimesTimi\DatesAndTimesTimi\bin\Debug\DatesAndTimesTimi.pdb
+c:\users\owotu\documents\visual studio 2015\Projects\DatesAndTimesTimi\DatesAndTimesTimi\obj\Debug\DatesAndTimesTimi.csprojResolveAssemblyReference.cache
+c:\users\owotu\documents\visual studio 2015\Projects\DatesAndTimesTimi\DatesAndTimesTimi\obj\Debug\DatesAndTimesTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\DatesAndTimesTimi\DatesAndTimesTimi\obj\Debug\DatesAndTimesTimi.pdb

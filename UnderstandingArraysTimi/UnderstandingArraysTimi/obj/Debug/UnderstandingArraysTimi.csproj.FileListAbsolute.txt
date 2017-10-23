@@ -1,0 +1,6 @@
+c:\users\owotu\documents\visual studio 2015\Projects\UnderstandingArraysTimi\UnderstandingArraysTimi\bin\Debug\UnderstandingArraysTimi.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\UnderstandingArraysTimi\UnderstandingArraysTimi\bin\Debug\UnderstandingArraysTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\UnderstandingArraysTimi\UnderstandingArraysTimi\bin\Debug\UnderstandingArraysTimi.pdb
+c:\users\owotu\documents\visual studio 2015\Projects\UnderstandingArraysTimi\UnderstandingArraysTimi\obj\Debug\UnderstandingArraysTimi.csprojResolveAssemblyReference.cache
+c:\users\owotu\documents\visual studio 2015\Projects\UnderstandingArraysTimi\UnderstandingArraysTimi\obj\Debug\UnderstandingArraysTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\UnderstandingArraysTimi\UnderstandingArraysTimi\obj\Debug\UnderstandingArraysTimi.pdb

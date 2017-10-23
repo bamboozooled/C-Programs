@@ -1,0 +1,6 @@
+c:\users\owotu\documents\visual studio 2015\Projects\FactorialProgramTimi\FactorialProgramTimi\bin\Debug\FactorialProgramTimi.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\FactorialProgramTimi\FactorialProgramTimi\bin\Debug\FactorialProgramTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\FactorialProgramTimi\FactorialProgramTimi\bin\Debug\FactorialProgramTimi.pdb
+c:\users\owotu\documents\visual studio 2015\Projects\FactorialProgramTimi\FactorialProgramTimi\obj\Debug\FactorialProgramTimi.csprojResolveAssemblyReference.cache
+c:\users\owotu\documents\visual studio 2015\Projects\FactorialProgramTimi\FactorialProgramTimi\obj\Debug\FactorialProgramTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\FactorialProgramTimi\FactorialProgramTimi\obj\Debug\FactorialProgramTimi.pdb

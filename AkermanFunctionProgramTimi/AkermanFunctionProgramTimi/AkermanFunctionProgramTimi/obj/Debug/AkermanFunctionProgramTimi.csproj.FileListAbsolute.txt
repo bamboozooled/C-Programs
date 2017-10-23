@@ -1,0 +1,6 @@
+c:\users\owotu\documents\visual studio 2015\Projects\AkermanFunctionProgramTimi\AkermanFunctionProgramTimi\bin\Debug\AkermanFunctionProgramTimi.exe.config
+C:\Users\owotu\documents\visual studio 2015\Projects\AkermanFunctionProgramTimi\AkermanFunctionProgramTimi\bin\Debug\AkermanFunctionProgramTimi.exe
+C:\Users\owotu\documents\visual studio 2015\Projects\AkermanFunctionProgramTimi\AkermanFunctionProgramTimi\bin\Debug\AkermanFunctionProgramTimi.pdb
+C:\Users\owotu\documents\visual studio 2015\Projects\AkermanFunctionProgramTimi\AkermanFunctionProgramTimi\obj\Debug\AkermanFunctionProgramTimi.csprojResolveAssemblyReference.cache
+C:\Users\owotu\documents\visual studio 2015\Projects\AkermanFunctionProgramTimi\AkermanFunctionProgramTimi\obj\Debug\AkermanFunctionProgramTimi.exe
+C:\Users\owotu\documents\visual studio 2015\Projects\AkermanFunctionProgramTimi\AkermanFunctionProgramTimi\obj\Debug\AkermanFunctionProgramTimi.pdb

@@ -1,0 +1,6 @@
+c:\users\owotu\documents\visual studio 2015\Projects\ClassSeatsTimi\ClassSeatsTimi\bin\Debug\ClassSeatsTimi.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\ClassSeatsTimi\ClassSeatsTimi\bin\Debug\ClassSeatsTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\ClassSeatsTimi\ClassSeatsTimi\bin\Debug\ClassSeatsTimi.pdb
+c:\users\owotu\documents\visual studio 2015\Projects\ClassSeatsTimi\ClassSeatsTimi\obj\Debug\ClassSeatsTimi.csprojResolveAssemblyReference.cache
+c:\users\owotu\documents\visual studio 2015\Projects\ClassSeatsTimi\ClassSeatsTimi\obj\Debug\ClassSeatsTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\ClassSeatsTimi\ClassSeatsTimi\obj\Debug\ClassSeatsTimi.pdb

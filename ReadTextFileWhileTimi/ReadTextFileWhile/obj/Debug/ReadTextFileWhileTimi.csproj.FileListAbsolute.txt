@@ -1,0 +1,10 @@
+c:\users\owotu\documents\visual studio 2015\Projects\ReadTextFileWhile\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.exe
+c:\users\owotu\documents\visual studio 2015\Projects\ReadTextFileWhile\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.pdb
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ReadTextFileWhileTimi\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe.config
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ReadTextFileWhileTimi\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.exe
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ReadTextFileWhileTimi\ReadTextFileWhile\obj\Debug\ReadTextFileWhile.pdb
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ReadTextFileWhileTimi\ReadTextFileWhile\bin\Debug\Values.txt
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ReadTextFileWhileTimi\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.exe
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ReadTextFileWhileTimi\ReadTextFileWhile\bin\Debug\ReadTextFileWhile.pdb
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\ReadTextFileWhileTimi\ReadTextFileWhile\obj\Debug\ReadTextFileWhileTimi.csprojResolveAssemblyReference.cache

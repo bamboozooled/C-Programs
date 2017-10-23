@@ -1,0 +1,6 @@
+c:\users\owotu\documents\visual studio 2015\Projects\FibonacciProgramTimi\FibonacciProgramTimi\bin\Debug\FibonacciProgramTimi.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\FibonacciProgramTimi\FibonacciProgramTimi\bin\Debug\FibonacciProgramTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\FibonacciProgramTimi\FibonacciProgramTimi\bin\Debug\FibonacciProgramTimi.pdb
+c:\users\owotu\documents\visual studio 2015\Projects\FibonacciProgramTimi\FibonacciProgramTimi\obj\Debug\FibonacciProgramTimi.csprojResolveAssemblyReference.cache
+c:\users\owotu\documents\visual studio 2015\Projects\FibonacciProgramTimi\FibonacciProgramTimi\obj\Debug\FibonacciProgramTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\FibonacciProgramTimi\FibonacciProgramTimi\obj\Debug\FibonacciProgramTimi.pdb

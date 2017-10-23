@@ -1,0 +1,6 @@
+c:\users\owotu\documents\visual studio 2015\Projects\UnderstandingInheritanceTimi\UnderstandingInheritanceTimi\bin\Debug\UnderstandingInheritanceTimi.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\UnderstandingInheritanceTimi\UnderstandingInheritanceTimi\bin\Debug\UnderstandingInheritanceTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\UnderstandingInheritanceTimi\UnderstandingInheritanceTimi\bin\Debug\UnderstandingInheritanceTimi.pdb
+c:\users\owotu\documents\visual studio 2015\Projects\UnderstandingInheritanceTimi\UnderstandingInheritanceTimi\obj\Debug\UnderstandingInheritanceTimi.csprojResolveAssemblyReference.cache
+c:\users\owotu\documents\visual studio 2015\Projects\UnderstandingInheritanceTimi\UnderstandingInheritanceTimi\obj\Debug\UnderstandingInheritanceTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\UnderstandingInheritanceTimi\UnderstandingInheritanceTimi\obj\Debug\UnderstandingInheritanceTimi.pdb

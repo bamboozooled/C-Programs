@@ -1,0 +1,7 @@
+c:\users\owotu\documents\visual studio 2015\Projects\IntegerTextFile\IntegerTextFile\bin\Debug\IntegerTextFile.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\IntegerTextFile\IntegerTextFile\bin\Debug\TextFileTimi.txt
+c:\users\owotu\documents\visual studio 2015\Projects\IntegerTextFile\IntegerTextFile\bin\Debug\IntegerTextFile.exe
+c:\users\owotu\documents\visual studio 2015\Projects\IntegerTextFile\IntegerTextFile\bin\Debug\IntegerTextFile.pdb
+c:\users\owotu\documents\visual studio 2015\Projects\IntegerTextFile\IntegerTextFile\obj\Debug\IntegerTextFile.exe
+c:\users\owotu\documents\visual studio 2015\Projects\IntegerTextFile\IntegerTextFile\obj\Debug\IntegerTextFile.pdb
+C:\Users\owotu\Documents\Visual Studio 2015\Projects\IntegerTextFile\IntegerTextFile\obj\Debug\IntegerTextFile.csprojResolveAssemblyReference.cache

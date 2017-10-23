@@ -1,0 +1,6 @@
+c:\users\owotu\documents\visual studio 2015\Projects\TheDateProgramTimi\TheDateProgramTimi\bin\Debug\TheDateProgramTimi.exe.config
+c:\users\owotu\documents\visual studio 2015\Projects\TheDateProgramTimi\TheDateProgramTimi\bin\Debug\TheDateProgramTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\TheDateProgramTimi\TheDateProgramTimi\bin\Debug\TheDateProgramTimi.pdb
+c:\users\owotu\documents\visual studio 2015\Projects\TheDateProgramTimi\TheDateProgramTimi\obj\Debug\TheDateProgramTimi.csprojResolveAssemblyReference.cache
+c:\users\owotu\documents\visual studio 2015\Projects\TheDateProgramTimi\TheDateProgramTimi\obj\Debug\TheDateProgramTimi.exe
+c:\users\owotu\documents\visual studio 2015\Projects\TheDateProgramTimi\TheDateProgramTimi\obj\Debug\TheDateProgramTimi.pdb
